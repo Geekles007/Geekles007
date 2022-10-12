@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Niat Lee</h1>
-<h3 align="center">A passionate Software Engineer from Cameroon</h3>
+<h3 align="center">A passionate Software Engineer from Cameroon 🇨🇲</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekles007" alt="geekles007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/leesan30lee" target="blank"><img src="https://img.shields.io/twitter/follow/leesan30lee?logo=twitter&style=for-the-badge" alt="leesan30lee" /></a> </p>
 
-- 🔭 I’m currently working on [beingmusic](https://beingmusic.vercel.app)
+- 🔭 I’m currently in love with React & Microfrontends
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on [camerapps](https://camerapps.com)
-
-- 💬 Ask me about **React, Flutter, Microfrontends and UX design**
+- 💬 I speak French (Native), Italian (B2) & English (C1)
 
 - 📫 How to reach me **tondjilee@gmail.com**
+
+- 🎨 I really like design, check my [dribbble](https://dribbble.com/ibirddesign) 😊
 
 - 📄 Know about my experiences [https://ebirly.vercel.app](https://ebirly.vercel.app)
 
