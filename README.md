@@ -13,7 +13,7 @@
 
 - 🎨 I really like design, check my [dribbble](https://dribbble.com/ibirddesign) 😊
 
-- 📄 Know about my experiences [https://ebirly.vercel.app](https://ebirly.vercel.app)
+- 📄 Know about my experiences [https://tnjl.me](https://tnjl.me)
 
 - ⚡ Fun fact **I think I'm too curious 😅**
 
