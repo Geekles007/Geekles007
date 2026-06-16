@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tnjl.me"><img src="https://img.shields.io/badge/Portfolio-ebirly.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://tnjl.me"><img src="https://img.shields.io/badge/Portfolio-tnjl.me-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/lee-tondji-niat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/leesan30lee"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://dribbble.com/ibirddesign"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
